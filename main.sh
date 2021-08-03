@@ -1,0 +1,1 @@
+./haxe-bins/haxe --main HelloWorld --interp
